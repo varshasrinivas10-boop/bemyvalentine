@@ -1,0 +1,209 @@
+{
+  "names": {
+    "sender": "SV",
+    "receiver": "RUNNNNN"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY, YOU JUST MADE ME THE HAPPIEST PERSON ALIVE!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, BABYYYY!!",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Our first photo ever (not actually)"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "atlast got a photo as ur 9th sv wished"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpeg",
+      "caption": "our first meet after 1.5 years of waiting"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "the moment i felt the actual joy after 1.5 years of wait"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "i think this might be our favourite pic of all"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "Your comforting presence"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_7.jpg",
+      "caption": "the not so actual bouquet of urs"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_8.jpg",
+      "caption": "the moment that felt it's just US"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_9.jpg",
+      "caption": "just for the way u tried to imitate me"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_10.jpg",
+      "caption": "my forever 1st baby"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_11.jpg",
+      "caption": "our first travel by bus"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_12.jpg",
+      "caption": "the moment i knew it was always U, JUST U"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_13.jpg",
+      "caption": "tmatching outfits, matching hearts"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_14.jpg",
+      "caption": "just to remember, i slept in ur arms and woke up in love"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll \n(pretend I know what I'm doing while) cooking your \n(and by “your” I mean ours) favorite dish"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Full-time pampering and just enough mischief to make you blush"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… and honestly, it turns me on when you talk"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Endless cuddles and smooches… deal with it"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal memory-maker… awkward, embarrassing, and all mine"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Private performance… and yes, it's getting hot in here"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "ambikapathy",
+      "duration": "2:58",
+      "album": "ambikapathy",
+      "artist": "",
+      "cover": "/src/assets/album-covers/ambikapathy.jpg",
+      "audio": "/src/assets/songs/ambikapathy.mp3"
+    },
+    {
+      "id": 2,
+      "title": "feel my love",
+      "duration": "4:57", 
+      "album": "kutty",
+      "artist": "",
+      "cover": "/src/assets/album-covers/feel_my_love.jpg",
+      "audio": "/src/assets/songs/feel_my_love.mp3"
+    },
+    {
+      "id": 3,
+      "title": "kadhaippoma",
+      "duration": "3:54",
+      "album": "oh my kadavuley",
+      "artist": "",
+      "cover": "/src/assets/album-covers/kadhaippoma.jpg",
+      "audio": "/src/assets/songs/kadhaippoma.mp3"
+    },
+    {
+      "id": 4,
+      "title": "thimuru kaataadha di",
+      "duration": "4:06",
+      "album": "LKG",
+      "artist": "",
+      "cover": "/src/assets/album-covers/thimuru_kaataadhadi.jpg",
+      "audio": "/src/assets/songs/thimuru_kaataadhadi.mp3"
+    },
+    {
+      "id": 5,
+      "title": "unnaal unnaal",
+      "duration": "4:56",
+      "album": "ambikapathy",
+      "artist": "",
+      "cover": "/src/assets/album-covers/unnaal_unnaal.jpg",
+      "audio": "/src/assets/songs/unnaal_unnaal.mp3"
+    },
+    {
+      "id": 6,
+      "title": "vaa senthaazhini",
+      "duration": "4:24",
+      "album": "adiyae",
+      "artist": "",
+      "cover": "/src/assets/album-covers/vaa_senthaazhini.jpg",
+      "audio": "/src/assets/songs/vaa_senthaazhini.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest love,",
+    "content": [
+      "I still see that sunlit classroom, where loving you began without warning.In that quiet, ordinary moment, my whole world quietly chose you.",
+      "Long after life pulled us into different directions, my heart never learned to let go.Lonely in crowded rooms, I kept loving you in silence, aching for what we were.",
+      "You are the home I crave and the memory that won't loosen its hold.Yearning for you this deeply almost hurts—because I love you… and I hate you."
+    ],
+    "signature": "Forever yours,\nUnga 9th SV"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
